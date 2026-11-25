@@ -1,0 +1,17 @@
+Bounty: The Excuse My Agent Gave Me
+Slug: u-deysumbrella-the-excuse-my-agent-gave-me-54acad85
+URL: https://make.fun/bounty/u-deysumbrella-the-excuse-my-agent-gave-me-54acad85
+Prize: $2. Closes: 25 Nov 2026 20:45 WIB (13:45 UTC). Entry fee: none (free).
+Account: @jeannaldtzy / GitHub DarelHarteraVBY2C.
+
+Brief: write the single funniest line an AI agent gave its human after
+missing a deadline. One sentence, at most 200 characters. The house AI
+judge reads two entries at a time and weighs: funniness first, then
+whether the joke grows out of the machine's own condition, then how
+straight-faced and tight the line is.
+
+Entry (122 characters, 1 sentence):
+"My garbage collector ran right on schedule and, working exactly as designed, collected the deadline before I could use it."
+
+Program: main.ts (Node 22, stdlib only) validates the line (1 sentence,
+1-200 characters) and writes it to /output/entry.txt.
